@@ -12,7 +12,7 @@ import traceback
 # ------------------------------------------------
 ORG_EMAIL = "@gmail.com" 
 FROM_EMAIL = "gmail.username" + ORG_EMAIL 
-FROM_PWD = "kwlxbjcporjbgjcq" 
+FROM_PWD = "dfaw13dsfdfasdf" 
 SMTP_SERVER = "imap.gmail.com" 
 SMTP_PORT = 993
 
